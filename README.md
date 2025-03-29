@@ -1,6 +1,7 @@
 # UI Challenge
 
-![UI Preview](path/to/screenshot.png)
+![UI Preview](![Screenshot (20)](https://github.com/user-attachments/assets/38df8926-5ddc-4dda-9c28-5cb5390f7040)
+)
 
 ## 🚀 About the Project
 This project is a solution to a UI challenge, built using **HTML** and **CSS**.
@@ -23,16 +24,17 @@ This project is a solution to a UI challenge, built using **HTML** and **CSS**.
 └── assets/
     └── images/
 
+```
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/ui-challenge.git
+git clone https://github.com/your-username/ui-challenge.git](https://github.com/Sasidharan0827/XITY-UI-CHALLANGE.git
 ```
 
 ### 2️⃣ Navigate to the Project Directory
 ```sh
-cd ui-challenge
+cd XITY-UI-CHALLANGE
 ```
 
 ### 3️⃣ Open the Project
