@@ -1,4 +1,4 @@
-#_**XITY UI CHALLENGE**_
+#_XITY UI CHALLENGE_
 
 
 
