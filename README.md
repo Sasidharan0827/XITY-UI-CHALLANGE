@@ -1,7 +1,7 @@
 # UI Challenge
 
-[UI Preview](![Screenshot (20)](https://github.com/user-attachments/assets/38df8926-5ddc-4dda-9c28-5cb5390f7040)
-)
+[UI Preview]![Screenshot (20)](https://github.com/user-attachments/assets/38df8926-5ddc-4dda-9c28-5cb5390f7040)
+
 
 ## 🚀 About the Project
 This project is a solution to a UI challenge, built using **HTML** and **CSS**.
