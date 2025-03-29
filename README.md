@@ -40,17 +40,17 @@ cd XITY-UI-CHALLANGE
 ### 3️⃣ Open the Project
 Simply open `index.html` in your browser to view the UI.
 
-## 📷 Preview
+## 📷 Live Demo
 *(Replace with actual screenshot path)*
 
-![Screenshot](path/to/screenshot.png)
+![Click here for Live demo](https://task-xity.netlify.app/)
 
 ## 📜 License
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)  
 This project is open-source and available under the **MIT License**.
 
 ---
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by [Sasidharan](https://github.com/Sasidharan0827)
 
 
-https://task-xity.netlify.app/
+
